@@ -163,6 +163,9 @@
   }
 }
 
+.with-border {
+  border: 2px solid #000; /* You can adjust the border width and color */
+}
 
 
 
