@@ -163,7 +163,7 @@
   }
 }
 
-.col-lg-4 {
+.img-fluid {
   border: 2px solid #000; /* Border width and color */
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Shadow offset-x, offset-y, blur-radius, and color */
 }
